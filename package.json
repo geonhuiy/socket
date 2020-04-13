@@ -1,0 +1,24 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "Websocket exercise for server-side scripting frameworks course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geonhuiy/socket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geonhuiy/socket/issues"
+  },
+  "homepage": "https://github.com/geonhuiy/socket#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "socket.io": "^2.3.0"
+  }
+}
